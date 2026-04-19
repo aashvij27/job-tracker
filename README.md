@@ -3,6 +3,7 @@ A simple and efficient **Job Tracker Web App** built using **Python + Streamlit*
 
 
 🚀 Features:
+
 ➕ Add new job applications  
 📋 View all applied jobs  
 🔍 Filter jobs by status  
